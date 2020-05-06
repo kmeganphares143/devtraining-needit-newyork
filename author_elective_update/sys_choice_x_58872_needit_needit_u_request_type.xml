@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-05-03 06:05:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>e8df746adbe5fb4491232f17d496196f</instance_id>
+        <instance_name>dev86594</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-05-03 06:05:06</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>a6f3d36a1b5c101078e2ff37dc4bcb59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Megs</sys_created_by>
+        <sys_created_on>2020-05-03 06:05:06</sys_created_on>
+        <sys_id>77e0daed1be4901078e2ff37dc4bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d92361780000001</sys_recorded_at>
+        <sys_updated_by>Megs</sys_updated_by>
+        <sys_updated_on>2020-05-03 06:05:06</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>ffe0daed22e49010fbea4f09b00d89f8</update_guid>
+        <update_guid_history>ffe0daed22e49010fbea4f09b00d89f8:1828161538,a3e0daedcbe49010ab3a964d62562de8:-1701966180,23e0daed29e490101de4368c2e485ce4:736548692,afe0daedfbe490100fd4c2460f1de5df:833312879,8df31766be1050108f4296b9c9961791:0,09e3df265d105010e594e641af33bda4:-1873136479,c9e3df26e910501028c527c377db819f:-1701966180,c9e3df26ce105010f73e7efbaa2db59b:736548692,f8e3df268c1050102a5d51e05378d797:833312879,f2e962139a081010bc509f6d4498c588:0,dac9a6df41c41010abcb4b9dd12dfec2:1828161538,92c9a6df92c41010f61349d20896e7be:1429053012,52c9a6dffec41010f511e94b60a450ba:-1514400100,d9e52eefe26700108976a2d3f7ae7879:1828161538,85e52eefc7670010fea6ffe5ac98fb75:1429053012,45e52eefc6670010fbc8230a23b0cd71:-1514400100,14364f15a1e3c010e6293d639cec8074:1828161538,14364f155ae3c010daf00798783f7d70:-1052499807,18364f15a7e3c01045447308b429176c:-644864676,1c364f1539e3c010072499d08bc98268:-1112380508,b565e36801a30010661d5b7f25bff914:-415436369</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Megs</sys_created_by>
+        <sys_created_on>2020-05-03 06:05:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>bef0deed1be4901078e2ff37dc4bcb60</sys_id>
+        <sys_metadata>bef0deed1be4901078e2ff37dc4bcb60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">77e0daed1be4901078e2ff37dc4bcbf9</sys_update_version>
+        <sys_updated_by>Megs</sys_updated_by>
+        <sys_updated_on>2020-05-03 06:05:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
